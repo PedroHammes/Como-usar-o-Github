@@ -1,8 +1,10 @@
 # Estrutura utilizada
-*Minha ideia foi de decompor o assunto.*
-**Considerei Git e Github uma habilidade** a ser aprendida, e com isso organizei uma estrutura de habilidade, tópicos e conceitos.
+**Minha ideia foi de decompor o assunto.**  
+**Considerei Git e Github uma habilidade** a ser aprendida, e com isso organizei uma estrutura de habilidade, tópicos e conceitos:
 
-**Este repositório representa a habilidade** Git-Github, **cada arquivo contêm um tópico** da habilidade, e em **cada tópico exite um ou mais conceitos**.
+* **Este repositório representa a habilidade** Git-Github
+* **cada arquivo contêm um tópico** da habilidade
+* e em **cada tópico exite um ou mais conceitos**.
 
 # Por onde começar?
 O guia recomendado para iniciar a consumir os conteúdos é o seguinte:
