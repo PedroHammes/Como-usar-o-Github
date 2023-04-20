@@ -7,8 +7,8 @@
 # Por onde começar?
 O guia recomendado para iniciar a consumir os conteúdos é o seguinte:
 
-1. Instalação e Configuração
-2. Principais comandos no terminal
+1. [Instalação e Configuração](InstalacaoEConfiguracao.md)
+2. [Principais comandos no terminal](PrincipaisComandosNoTerminal.md)
 3. Ciclo de vida dos arquivos
 4. Commits
 5. Logs
