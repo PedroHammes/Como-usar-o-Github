@@ -6,7 +6,8 @@
 2. Não monitorado
 
 ### Arquivos Monitorados
-> São arquivos que já sofreram `commit` ou estão em `stage`.  
+> São arquivos que já sofreram `commit` ou estão em `stage`.
+
 **Você pode conferir o status desses arquivos usando o comando `git status`.**
 A partir de agora o git sabe que esses arquivos **fazem parte do seu projeto**.
 
