@@ -14,7 +14,7 @@ _Use o passo a passo específico para o seu sistema operacional._
 3. Confira se suas informações foram atualizadas da forma como você quis:  
 ``git config --list``
 
-===
+---
 * [Tópico Anterior](README.md)
 * [Próximo Tópico](PrincipaisComandosNoTerminal.md)
 * [Início](README.md)
