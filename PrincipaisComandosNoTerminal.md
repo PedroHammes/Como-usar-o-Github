@@ -103,4 +103,6 @@ Injeta algum conteúdo dentro de algum arquivo.
 > **Ex.:** `echo ‘hello’ >> file.txt`  
 _injeta o texto ‘hello’ dentro de file._
 
+---
+
 [Tópico Anterior](InstalacaoEConfiguracao.md) | [Início](README.md) | [Próximo Tópico](CicloDeVidaDosArquivos.md)

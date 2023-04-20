@@ -9,7 +9,7 @@ O guia recomendado para iniciar a consumir os conteúdos é o seguinte:
 
 1. [Instalação e Configuração](InstalacaoEConfiguracao.md)
 2. [Principais comandos no terminal](PrincipaisComandosNoTerminal.md)
-3. Ciclo de vida dos arquivos
+3. [Ciclo de vida dos arquivos](CicloDeVidaDosArquivos.md)
 4. Commits
 5. Logs
 6. Diferenças
