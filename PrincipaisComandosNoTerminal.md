@@ -1,8 +1,8 @@
 # Principais Comandos no Terminal
 
 ### `cat [nome do arquivo]`
-  Captura o conteúdo de um arquivo e mostra na tela
-  _Para sair da exibição use `q`_
+  Captura o conteúdo de um arquivo e mostra na tela.  
+  _Para sair da exibição use  `q`_
 
 
 ---
