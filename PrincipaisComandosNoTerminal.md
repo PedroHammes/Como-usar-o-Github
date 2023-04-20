@@ -1,11 +1,11 @@
 # Principais Comandos no Terminal
 
-### `cat [nome do arquivo]`
+### `cat [nome do arquivo]`  
 Captura o conteúdo de um arquivo e mostra na tela.  
 _Para sair da exibição use  `q`_.
 ---
 
-### `cd [caminho desejado]`
+### `cd [caminho desejado]`  
 Navega para a pasta especificada:  
 *com `cd..` você volta para a pasta anterior
 *com `cd../..` você volta duas pastas para trás
@@ -15,6 +15,4 @@ Navega para a pasta especificada:
 ###
 
 
-*[Tópico Anterior](InstalacaoEConfiguracao.md)
-*[Próximo Tópico]()
-*[Início](README.md)
+[Tópico Anterior](InstalacaoEConfiguracao.md) | [Próximo Tópico]() | [Início](README.md)
