@@ -39,6 +39,6 @@ Mostra o histórico de comandos.
 * `|` serve para pegar a saída de history (a lista de comandos anteriores)
 * `grep` é um filtro
 * `mv` é o comando filtrado  
- *Assim o console retornará uma lista com os comandos que contenham o comando filtrado e o número desses comandos no histórico, então basta usar `!número do comando desejado` para repetir o comando que você quiser.
+ * Assim o console retornará uma lista com os comandos que contenham o comando filtrado e o número desses comandos no histórico, então basta usar `!número do comando desejado` para repetir o comando que você quiser.
 
 [Tópico Anterior](InstalacaoEConfiguracao.md) | [Início](README.md) | [Próximo Tópico]
