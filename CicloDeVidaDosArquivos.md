@@ -22,6 +22,8 @@ Arquivos monitorados podem estar:
 ### Arquivos não Monitorados
 > Arquivos que **não estavam no último `commit`**, **nem estão na área de seleção** ( `git add` ).
 
+---
+
 ## Ciclo de vida dos arquivos
 
 ![File Status Licecycle](https://th.bing.com/th/id/R.440edcf13b2028ba30c03d94fbeaacaa?rik=JkwZslcM0qJEbA&riu=http%3a%2f%2fblog.4linux.com.br%2fwp-content%2fuploads%2f2017%2f07%2fGit_ciclo.vida_.png&ehk=ztDLfdWuEyYrBbAM%2b%2biV2HUE%2fwYnUHkNem64SxKDhO8%3d&risl=&pid=ImgRaw&r=0)
