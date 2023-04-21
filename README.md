@@ -16,7 +16,7 @@ O guia recomendado para iniciar a consumir os conteúdos é o seguinte:
 5. [Logs](Logs.md)
 6. [Diferenças](VisualizarDiferencas.md)
 7. [Desfazendo alterações](DesfazendoAlteracoes.md)
-8. Braches
+8. [Braches](Branchs.md)
 9. Merge
 10. Repositórios
 11. Pull Request

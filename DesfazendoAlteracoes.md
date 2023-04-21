@@ -59,4 +59,4 @@ git checkout -- [nome do arquivo]
 
 ---
 
-[Tópico Anterior](VisualizarDiferencas.md) | [Início](README.md) | Próximo Tópico
+[Tópico Anterior](VisualizarDiferencas.md) | [Início](README.md) | [Próximo Tópico](Branchs.md)
