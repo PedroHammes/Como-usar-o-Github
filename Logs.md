@@ -1,6 +1,7 @@
 # Logs
 
->**Após realizar uma série de `commits` em um repositório, é natural querer visualizar o que aconteceu nele.** Principalmente se for uma projeto grande e colaborativo com muitas pessoas trabalhando nele.  
+>**Após realizar uma série de `commits` em um repositório, é natural querer visualizar o que aconteceu nele.**  
+Principalmente se for uma projeto grande e colaborativo com muitas pessoas trabalhando nele.  
 
 Para atender esta demanda, **o git possui um “histórico de eventos”**, chamado de ``log``, **que guarda um registros de todas as alterações feitas em cada arquivo**.  
 
@@ -18,7 +19,7 @@ git log
 **Se você quiser as informações exibidas de forma mais enxuta**, use o comando abaixo:
 
 ```c
-git log --pretty=onleine
+git log --pretty=oneline
 ```
 
 Assim o `git` **retornará apenas a mensagem** de cada `commit`.
