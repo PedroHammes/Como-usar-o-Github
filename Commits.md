@@ -33,4 +33,4 @@
 
 ---
 
-[Tópico Anterior](CicloDeVidaDosArquivos.md) | [Início](README.md) | Próximo Tópico
+[Tópico Anterior](CicloDeVidaDosArquivos.md) | [Início](README.md) | [Próximo Tópico](Logs.md)
