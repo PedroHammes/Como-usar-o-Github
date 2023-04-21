@@ -56,6 +56,7 @@ Use o comando:
 git checkout -- [nome do arquivo]
 ```
 **Removerá as alterações e deixará o arquivo da forma como estava no último commit**.
+
 ---
 
 [Tópico Anterior](VisualizarDiferencas.md) | [Início](README.md) | Próximo Tópico
