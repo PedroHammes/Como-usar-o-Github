@@ -1,21 +1,21 @@
 # Desfazendo Alterações
 
 ## Editando commit
-Imagine que você modificou um tópico do `arquivoA` e fez o commit.  
+Imagine que você modificou um tópico do `arquivoA`  e fez o commit.  
 Mas o arquivoB tem o mesmo tópico a ser adicionado, portanto **seria ideal fazer um único commit** para a mesma alteração nos dois arquivos.
 
-Neste caso, **você pode alterar o commit** para que ele envie também a atualização de `arquivoB`.  
+Neste caso, **você pode alterar o commit** para que ele envie também a atualização de `arquivoB`  .  
 Para isso, use o comando:
 
 ```c
 git commit --amend
 ```
 >Este comando irá abrir o editor de texto nano, no terminal
-Aqui você podera alterar a mensagem do commit para incluir na descrição uma nota sobre a alteração do `arquivoB`.  
+Aqui você podera alterar a mensagem do commit para incluir na descrição uma nota sobre a alteração do `arquivoB`  .  
 _Linhas iniciadas com `#` serão consideradas comentários._  
 
-Se você quiser **alterar apenas a mensagem**, basta não ter nada em `staging`.  
-Use o `git commit --amend` novamente e altere a mensagem do commit.
+Se você quiser **alterar apenas a mensagem**, basta não ter nada em `staging`  .  
+Use o `git commit --amend`  novamente e altere a mensagem do commit.
 
 ---
 
@@ -35,7 +35,7 @@ git reset HEAD [nome do arquivo]
 ```
 Ele vai _resetar o arquivo para como ele estava no último commit._
     
-**As mudanças permanecerão no seu arquivo do VSCode**, mas se você usar `git status` verá que **os arquivos saíram da área de seleção**.
+**As mudanças permanecerão no seu arquivo do VSCode**, mas se você usar `git status`  verá que **os arquivos saíram da área de seleção**.
     
 **Irá remover o arquivo da área de seleção**.
 
