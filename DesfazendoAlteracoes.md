@@ -12,7 +12,7 @@ git commit --amend
 ```
 >Este comando irá abrir o editor de texto nano, no terminal
 Aqui você podera alterar a mensagem do commit para incluir na descrição uma nota sobre a alteração do `arquivoB`  .  
-_Linhas iniciadas com `#` serão consideradas comentários._  
+_Linhas iniciadas com `#`  serão consideradas comentários._  
 
 Se você quiser **alterar apenas a mensagem**, basta não ter nada em `staging`  .  
 Use o `git commit --amend`  novamente e altere a mensagem do commit.
