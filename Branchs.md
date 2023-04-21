@@ -38,4 +38,4 @@ git branch -d [nome da branch a ser deletada]
 git checkout -b [nome da branch que será criada]
 ```
 ---
-[Tópico Anterior](VisualizarDiferencas.md) | [Início](README.md) | Próximo Tópico
+[Tópico Anterior](VisualizarDiferencas.md) | [Início](README.md) | [Próximo Tópico](Merge.md)
