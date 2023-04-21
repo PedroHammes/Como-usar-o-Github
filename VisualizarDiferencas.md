@@ -8,3 +8,7 @@ O `git diff [nome do arquivo]` analisa as diferenças entre versões do arquivo.
 * **+[alguma coisa] é o que foi adicionado**
 
 O comando `git diff --name-only` retorna apenas o nome dos arquivos que tem diferenças entre suas versões atuais e as suas versões do último commit.
+
+---
+
+[Tópico Anterior](Logs.md) | [Início](README.md) | [Próximo Tópico](DesfazendoAlteracoes.md)
