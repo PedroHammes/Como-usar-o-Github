@@ -23,9 +23,9 @@
     
     a. Para manter as boas práticas, fazemos commits individuais, portanto prefira usar o comando `git add [nome do arquivo]` e comittar apenas este arquivo. Só então passe outro arquivo para `staged` e assim por diante. 
     
-  Agora o arquivo.txt está na área intermediária, antes do commit
+    Agora o arquivo.txt está na área intermediária, antes do commit
     
-  Se você usar `git status` novamente verá que o arquivo foi movido para a área de monitoramento e está guardando `commit`.
+    Se você usar `git status` novamente verá que o arquivo foi movido para a área de monitoramento e está guardando `commit`.
     
 6. Use `git commit -m ‘mensagem’` para enviar o arquivo para a versão final
     
