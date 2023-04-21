@@ -21,7 +21,7 @@
     
 5. Use `git add [nome do arquivo]`  para monitorar o arquivo desejado ou `git add .`  para monitorar todos os arquivos.
     
-    a. Para manter as boas práticas, fazemos commits individuais, portanto prefira usar o comando `git add [nome do arquivo]` e comittar apenas este arquivo. Só então passe outro arquivo para `staged` e assim por diante. 
+      a. Para manter as boas práticas, fazemos commits individuais, portanto prefira usar o comando `git add [nome do arquivo]` e comittar apenas este arquivo. Só então passe outro arquivo para `staged` e assim por diante. 
     
     Agora o arquivo.txt está na área intermediária, antes do commit
     
