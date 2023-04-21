@@ -30,4 +30,4 @@ Arquivos monitorados podem estar:
 
 ---
 
-[Tópico Anterior](PrincipaisComandosNoTerminal.md) | [Início](README.md) | [Próximo Tópico]()
+[Tópico Anterior](PrincipaisComandosNoTerminal.md) | [Início](README.md) | [Próximo Tópico](./Commits.md)
