@@ -21,8 +21,14 @@ Use o `git commit --amend` novamente e altere a mensagem do commit.
 
 ## Como remover um arquivo de Staging
 Para remover um arquivo da área de seleção existem duas opções:
+    
+>**Método recomendado pelo próprio terminal**
+    Use o comando: 
+```c
+git restore --staged [nome do arquivo]
+```
 
->**Método da OBC**
+>**Método alternativo**
     Use o comando:
 ```c
 git reset HEAD [nome do arquivo]
@@ -31,24 +37,11 @@ Ele vai _resetar o arquivo para como ele estava no último commit._
     
 **As mudanças permanecerão no seu arquivo do VSCode**, mas se você usar `git status` verá que **os arquivos saíram da área de seleção**.
     
->**Método recomendado pelo próprio terminal**
-    Use o comando: 
-```c
-git restore --staged [nome do arquivo]
-```
-    
 **Irá remover o arquivo da área de seleção**.
 
 ---  
 
 ## Como desfazer alterações no arquivo
-
->**Método da OBC**
-Use o comando:
-```c
-git checkout -- [nome do arquivo]
-```
-**Removerá as alterações e deixará o arquivo da forma como estava no último commit**.
     
 >**Método recomendado pelo próprio terminal**
 Use o comando:
@@ -57,6 +50,12 @@ git restore [nome do arquivo]
 ```
 **Removerá as alterações e deixará o arquivo da forma como estava no último commit**.
 
+>**Método alternativo**
+Use o comando:
+```c
+git checkout -- [nome do arquivo]
+```
+**Removerá as alterações e deixará o arquivo da forma como estava no último commit**.
 ---
 
 [Tópico Anterior](VisualizarDiferencas.md) | [Início](README.md) | Próximo Tópico
