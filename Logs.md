@@ -44,3 +44,6 @@ git log -1
 ```c
 git log --stat
 ```
+---
+
+[Tópico Anterior](Commits.md) | [Início](README.md) | [Próximo Tópico](VisualizarDiferencas.md)
