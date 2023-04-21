@@ -14,7 +14,7 @@ O guia recomendado para iniciar a consumir os conteúdos é o seguinte:
 3. [Ciclo de vida dos arquivos](CicloDeVidaDosArquivos.md)
 4. [Commits](Commits.md)
 5. [Logs](Logs.md)
-6. Diferenças
+6. [Diferenças](VisualizarDiferencas.md)
 7. Desfazendo alterações
 8. Braches
 9. Merge
