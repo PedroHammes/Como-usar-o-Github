@@ -22,3 +22,5 @@ git commit -m "Criação e edição de arquivoA"
 3. Retorne para a branch master e verá que não há o arquivoA, pois ele foi commitado apenas na branch arquivoA.
 4. Para adicionar o conteúdo commitado na branch arquivoA à branch master use o comando  `git merge arquivoA`
 5. Use o  `git log`  para ver o histórico de acontecimentos e lá você verá o merge
+
+[Tópico Anterior](Branchs.md) | [Início](README.md) | [Próximo Tópico](Repositorios.md)
