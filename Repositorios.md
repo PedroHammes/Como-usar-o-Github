@@ -16,6 +16,6 @@
   6. git remote add origin [link forncecido]
       a. Linkar o projeto local com o online (alterações de um afetam o outro)
   7. git push -u origin master //ou main
-      1. username: email
-      2. password: token gerado
+      a. username: email
+      b. password: token gerado
 ```
