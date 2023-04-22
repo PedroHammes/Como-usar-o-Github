@@ -53,4 +53,15 @@
         >O Github não faz mais a autenticação com senha, agora é somente com o token.
 
 ---
+## Baixando Atualizações
+1. Enrtre no arquivo desejado
+2.  Clique no botão de editar
+3.  Faça as alterações que você quiser e depois clique no botão de  `commitar`
+
+Pronto, agora ao analisar os arquivos na sua máquina você verá que não forama lterados e você continua com uma versão antiga do código.
+Use o comando abaixo para baixar as atualizações para a sua máquina:
+```c
+git pull origin  master
+```
+---
 [Tópico Anterior](Merge.md) | [Início](README.md) | [Próximo Tópico](PullRequest.md)
