@@ -82,5 +82,16 @@ Geralmente quando vamos enviar o commit para o github usamos o comando  `gitt pu
 
 Isso irá criar um pull request que será notificado na tela inicial do projeto.  
 Vá na aba de pull request para conferir.
+
 ---
-[Tópico Anterior](Merge.md) | [Início](README.md) | [Próximo Tópico](PullRequest.md)
+
+### Pull Request
+1. Você pode alterar entre as branchs para ver as diferenças entre elas:
+2. Clique em compare para comparar as diferenças entre as branchs
+3. Se você achar que o código faz sentido clique em criar o pull request (solicitação)  
+4. Então será aberta esta página onde os adms do repo (neste caso você) decidirão sobre fazer ou não o merge da branch do pr na branch master    
+5. Após o merge ser realizado haverá a opção de deletar a branch
+
+Agora no seu prompt você pode usar o comando  `git checkout master`  para retornar à branch principal e baixar as atualizações desta branch.
+
+[Tópico Anterior](Merge.md) | [Início](README.md)
