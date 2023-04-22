@@ -19,3 +19,7 @@
       a. username: email
       b. password: token gerado
 ```
+
+---
+
+[Tópico Anterior](Merge.md) | [Início](README.md) | [Próximo Tópico](PullRequest.md)
