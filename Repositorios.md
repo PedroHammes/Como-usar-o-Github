@@ -36,7 +36,7 @@
       - Nome do Token (use um nome autoexplicativo)
       - Selecione um prazo de expiração
       - Selecione um nível de acesso para um token  
-      >Quem acessar o repo usando este token só poderá realizar as ações permitidas nesta etapa  
+        >Quem acessar o repo usando este token só poderá realizar as ações permitidas nesta etapa  
       - Gere o token
 6. Copie o token e use-o imediatamente
       - Após sair da tela de geração você nunca mais verá este token, então use-o imediatamente.
@@ -48,8 +48,8 @@
     ```
     Este comando irá inicializar o git no repo ou reiniciar caso ele já tenha sido inicializado. 
 9. Nome e senha
-      a. Use seu nome de usuário do Github
-      b. Na senha, use o token gerado
+      - Use seu nome de usuário do Github
+      - Na senha, use o token gerado
         >O Github não faz mais a autenticação com senha, agora é somente com o token.
 
 ---
