@@ -36,7 +36,7 @@
     a. Nome do Token (use um nome autoexplicativo)
     b. Selecione um prazo de expiração
     c. Selecione um nível de acesso para um token
-      >Quem acessar o repo usando este token só poderá realizar as ações permitidas nesta etapa
+      >Quem acessar o repo usando este token só poderá realizar as ações permitidas nesta etapa  
     d. Gere o token
 6. Copie o token e use-o imediatamente
     a. Após sair da tela de geração você nunca mais verá este token, então use-o imediatamente.
