@@ -19,4 +19,3 @@ O guia recomendado para iniciar a consumir os conteúdos é o seguinte:
 8. [Braches](Branchs.md)
 9. [Merge](Merge.md)
 10. [Repositórios](Repositorios.md)
-11. Pull Request
