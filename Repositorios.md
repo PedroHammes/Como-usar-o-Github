@@ -77,4 +77,10 @@ git pull origin  master
   - No fim da página há uma sessão de comentários, onde as pessoas podem fazer comentários sobre o seu commit e você sobre o delas.
 
 ---
+## Criando uma nova Branch
+Geralmente quando vamos enviar o commit para o github usamos o comando  `gitt push origin master`  , para enviar o commit para outra branch do github basta alterar o master para o nome da branch criada (ou de outra já criada, se for o caso): `gitt push origin [nova branch]`  
+
+Isso irá criar um pull request que será notificado na tela inicial do projeto.  
+Vá na aba de pull request para conferir.
+---
 [Tópico Anterior](Merge.md) | [Início](README.md) | [Próximo Tópico](PullRequest.md)
