@@ -63,5 +63,18 @@ Use o comando abaixo para baixar as atualizações para a sua máquina:
 ```c
 git pull origin  master
 ```
+
+---
+## Lendo os commits
+1. Se você quiser ler o histórico de commits clique no botão de histórico
+2. Aqui você verá todos os commits feitos (organizados por branches)
+3. Clique em algum commit para abrir a página do commit:
+  - No topo temos a mensagem do commit e a descrição estendida
+  - No meio temos as alterações feitas no código
+      - No lado esquerdo a versão antiga
+      - No lado direito a versão nova
+      - Compare as diferenças
+  - No fim da página há uma sessão de comentários, onde as pessoas podem fazer comentários sobre o seu commit e você sobre o delas.
+
 ---
 [Tópico Anterior](Merge.md) | [Início](README.md) | [Próximo Tópico](PullRequest.md)
